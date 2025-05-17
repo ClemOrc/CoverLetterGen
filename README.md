@@ -50,8 +50,9 @@ An AI-powered web application that generates professional cover letters using Op
 1. Fill in the form with:
    - Job Title
    - Company Name
-   - Your Experience
-   - Key Skills
+   - Your CV
+   - Inventivity
+   - Humor
 
 2. Click "Generate Cover Letter"
 3. Wait for the AI to generate your personalized cover letter
